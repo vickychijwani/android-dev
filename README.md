@@ -29,18 +29,26 @@ There are extensive lists elsewhere, so I'll just direct you there:
 
 ### Tutorials and Blogs
 
+Tutorials:
+
 - [Official Android Training Guides][26]
-- [Official Android API Guides][27]
-- [Android Developers Blog][20]
+- [Official Android API Guides][27] 
+
+Talks:
+
 - [Android Developers YouTube Channel][29]
 - [Google I/O 2014][30]
 - [Google I/O 2013][31]
+
+Blogs:
+
+- [Android Developers Blog][20]
 - [Android Design Patterns][21]
 - [Cyril Mottier's Blog][23]
 - [Grokking Android][22]
-- [Prismatic's Android Guide][28]
 - [Romain Guy's Blog][24]
 - [Chet Hasse's Blog][25]
+- [Prismatic's Android Guide][28]
 
 
 ### Design
