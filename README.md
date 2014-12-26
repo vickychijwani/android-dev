@@ -32,6 +32,9 @@ There are extensive lists elsewhere, so I'll just direct you there:
 - [Official Android Training Guides][26]
 - [Official Android API Guides][27]
 - [Android Developers Blog][20]
+- [Android Developers YouTube Channel][29]
+- [Google I/O 2014][30]
+- [Google I/O 2013][31]
 - [Android Design Patterns][21]
 - [Cyril Mottier's Blog][23]
 - [Grokking Android][22]
@@ -59,10 +62,10 @@ Inspiration:
 
 ### Tooling and Debugging
 
-If you're starting out with a new project, I highly recommend [Android Studio][30] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse.
+If you're starting out with a new project, I highly recommend [Android Studio][60] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse.
 
-- [Remote debugging WebViews via Chrome][31]
-- [Scalpel - view your UI hierarchy in 3D!][32]
+- [Remote debugging WebViews via Chrome][61]
+- [Scalpel - view your UI hierarchy in 3D!][62]
 
 
 -----
@@ -88,10 +91,9 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [26]: http://developer.android.com/training/index.html
 [27]: http://developer.android.com/guide/index.html
 [28]: https://github.com/nstevens/androidguide/wiki
-
-[30]: http://developer.android.com/sdk/index.html
-[31]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
-[32]: https://github.com/JakeWharton/scalpel
+[29]: https://www.youtube.com/user/androiddevelopers
+[30]: https://www.google.com/events/io/io14videos
+[31]: https://developers.google.com/events/io/sessions#t-android
 
 [40]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
 [41]: http://android-holo-colors.com/
@@ -106,3 +108,7 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [50]: http://android-arsenal.com/
 [51]: http://androidcustomviews.com/
 [52]: https://github.com/JStumpp/awesome-android
+
+[60]: http://developer.android.com/sdk/index.html
+[61]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
+[62]: https://github.com/JakeWharton/scalpel
