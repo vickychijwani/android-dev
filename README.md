@@ -43,7 +43,7 @@ There are extensive lists elsewhere, so I'll just direct you there:
 Tools:
 
 - [Android Cheatsheet for Graphic Designers][47]
-- [Database of Free Vector Icons][48]
+- [Flaticon - Database of Free Vector Icons][48]
 - [Roman Nurik's Android UI Utilities][40]
 - [Android Holo Colors Generator][41]
 - [Android ActionBar Style Generator][42]
