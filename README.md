@@ -34,6 +34,7 @@ There are extensive lists elsewhere, so I'll just direct you there:
 - [Android Design Patterns][21]
 - [Cyril Mottier's Blog][23]
 - [Grokking Android][22]
+- [Prismatic's Android Guide][28]
 - [Romain Guy's Blog][24]
 - [Chet Hasse's Blog][25]
 
@@ -85,6 +86,7 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [25]: http://graphics-geek.blogspot.com/
 [26]: http://developer.android.com/training/index.html
 [27]: http://developer.android.com/guide/index.html
+[28]: https://github.com/nstevens/androidguide/wiki
 
 [30]: http://developer.android.com/sdk/index.html
 [31]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
