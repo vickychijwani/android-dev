@@ -24,6 +24,7 @@ There are extensive lists elsewhere, so I'll just direct you there:
 
 - [Android Arsenal][50]
 - [Android Custom Views][51]
+- [Jürgen Stumpp's list][52]
 
 
 ### Tutorials and Blogs
@@ -104,3 +105,4 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 
 [50]: http://android-arsenal.com/
 [51]: http://androidcustomviews.com/
+[52]: https://github.com/JStumpp/awesome-android
