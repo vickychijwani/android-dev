@@ -70,7 +70,7 @@ Inspiration:
 
 ### Tooling and Debugging
 
-If you're starting out with a new project, I highly recommend [Android Studio][60] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse.
+If you're starting out with a new project, I highly recommend [Android Studio][60] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse. Other debugging tools:
 
 - [Remote debugging WebViews via Chrome][61]
 - [Scalpel - view your UI hierarchy in 3D!][62]
