@@ -65,7 +65,7 @@ If you're starting out with a new project, I highly recommend [Android Studio][3
 
 -----
 
-If you think I've missed some useful resource, please file an [issue](/issues), or fork and send a [pull request](/pulls)!
+If you think I've missed some useful resource, please file an [issue](https://github.com/vickychijwani/android-dev/issues), or fork and send a [pull request](https://github.com/vickychijwani/android-dev/pulls)!
 
 
 [1]: https://github.com/UweTrottmann/SeriesGuide
