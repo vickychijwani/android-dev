@@ -32,7 +32,8 @@ There are extensive lists elsewhere, so I'll just direct you there:
 Tutorials:
 
 - [Official Android Training Guides][26]
-- [Official Android API Guides][27] 
+- [Official Android API Guides][27]
+- [Vogella.com Tutorials][32]
 
 Talks:
 
@@ -50,6 +51,10 @@ Blogs:
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
 
+Booksite:
+
+-[Android Cookbook][33]
+
 ### MOOC's (Massive Open Online Course)
 
 Coursera
@@ -61,7 +66,9 @@ Coursera
 - [Programming Cloud Services for Android Handheld Systems: Spring][74]
 - [Programming Cloud Services for Android Handheld Systems: Security][75]
 
+CodePath
 
+- [Android Mobile Bootcamp][76]
 
 ### Design
 
@@ -114,6 +121,8 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [29]: https://www.youtube.com/user/androiddevelopers
 [30]: https://www.google.com/events/io/io14videos
 [31]: https://developers.google.com/events/io/sessions#t-android
+[32]: http://www.vogella.com/tutorials/android.html
+[33]: http://androidcookbook.com/
 
 [40]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
 [41]: http://android-holo-colors.com/
@@ -139,3 +148,4 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [73]: https://www.coursera.org/course/posacommunication
 [74]: https://www.coursera.org/course/mobilecloudprogram
 [75]: https://www.coursera.org/course/mobilecloudsecurity
+[76]: http://codepath.com/androidbootcamp
