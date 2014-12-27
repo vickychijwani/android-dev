@@ -50,6 +50,18 @@ Blogs:
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
 
+### MOOC's (Massive Open Online Course)
+
+Coursera
+
+- [Programming Mobile Applications for Android Handheld Systems Part 1][70]
+- [Programming Mobile Applications for Android Handheld Systems Part 2][71]
+- [Programming Mobile Services for Android Handheld Systems : Concurrency][72]
+- [Programming Mobile Services for Android Handheld Systems : Communication][73]
+- [Programming Cloud Services for Android Handheld Systems: Spring][74]
+- [Programming Cloud Services for Android Handheld Systems: Security][75]
+
+
 
 ### Design
 
@@ -120,3 +132,10 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [60]: http://developer.android.com/sdk/index.html
 [61]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
 [62]: https://github.com/JakeWharton/scalpel
+
+[70]: https://www.coursera.org/course/androidpart1
+[71]: https://www.coursera.org/course/androidpart2
+[72]: https://www.coursera.org/course/posaconcurrency
+[73]: https://www.coursera.org/course/posacommunication
+[74]: https://www.coursera.org/course/mobilecloudprogram
+[75]: https://www.coursera.org/course/mobilecloudsecurity
