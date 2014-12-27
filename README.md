@@ -50,16 +50,16 @@ Blogs:
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
 
-### MOOC's (Massively Open Online Course)
+### MOOC's (Massive Open Online Course)
 
 Coursera
 
-- [Programming Mobile Applications for Android Handheld Systems Part 1][63]
-- [Programming Mobile Applications for Android Handheld Systems Part 2][64]
-- [Programming Mobile Services for Android Handheld Systems : Concurrency][65]
-- [Programming Mobile Services for Android Handheld Systems : Communication][66]
-- [Programming Cloud Services for Android Handheld Systems: Spring][67]
-- [Programming Cloud Services for Android Handheld Systems: Security][68]
+- [Programming Mobile Applications for Android Handheld Systems Part 1][70]
+- [Programming Mobile Applications for Android Handheld Systems Part 2][71]
+- [Programming Mobile Services for Android Handheld Systems : Concurrency][72]
+- [Programming Mobile Services for Android Handheld Systems : Communication][73]
+- [Programming Cloud Services for Android Handheld Systems: Spring][74]
+- [Programming Cloud Services for Android Handheld Systems: Security][75]
 
 
 
@@ -133,9 +133,9 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [61]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
 [62]: https://github.com/JakeWharton/scalpel
 
-[63]: https://www.coursera.org/course/androidpart1
-[64]: https://www.coursera.org/course/androidpart2
-[65]: https://www.coursera.org/course/posaconcurrency
-[66]: https://www.coursera.org/course/posacommunication
-[67]: https://www.coursera.org/course/mobilecloudprogram
-[68]: https://www.coursera.org/course/mobilecloudsecurity
+[70]: https://www.coursera.org/course/androidpart1
+[71]: https://www.coursera.org/course/androidpart2
+[72]: https://www.coursera.org/course/posaconcurrency
+[73]: https://www.coursera.org/course/posacommunication
+[74]: https://www.coursera.org/course/mobilecloudprogram
+[75]: https://www.coursera.org/course/mobilecloudsecurity
