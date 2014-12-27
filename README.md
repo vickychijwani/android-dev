@@ -66,9 +66,6 @@ Coursera
 - [Programming Cloud Services for Android Handheld Systems: Spring][74]
 - [Programming Cloud Services for Android Handheld Systems: Security][75]
 
-CodePath
-
-- [Android Mobile Bootcamp][76]
 
 ### Design
 
@@ -148,4 +145,3 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [73]: https://www.coursera.org/course/posacommunication
 [74]: https://www.coursera.org/course/mobilecloudprogram
 [75]: https://www.coursera.org/course/mobilecloudsecurity
-[76]: http://codepath.com/androidbootcamp
