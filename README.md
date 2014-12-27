@@ -14,6 +14,7 @@ Samples:
 
 - [ApiDemos][4]
 - [u2020][3]
+- [Android Cookbook Examples][9]
 
 Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
 
@@ -51,9 +52,6 @@ Blogs:
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
 
-Booksite:
-
-- [Android Cookbook][33]
 
 ### MOOC's (Massive Open Online Course)
 
@@ -105,6 +103,7 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [6]: https://code.google.com/p/dashclock/
 [7]: http://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 [8]: https://github.com/DrKLO/Telegram
+[9]: https://github.com/IanDarwin/Android-Cookbook-Examples
 
 [20]: http://android-developers.blogspot.com/
 [21]: http://www.androiddesignpatterns.com/
@@ -119,7 +118,6 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [30]: https://www.google.com/events/io/io14videos
 [31]: https://developers.google.com/events/io/sessions#t-android
 [32]: http://www.vogella.com/tutorials/android.html
-[33]: http://androidcookbook.com/
 
 [40]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
 [41]: http://android-holo-colors.com/
