@@ -77,6 +77,7 @@ Tools:
 
 Inspiration:
 
+- [MaterialUp][76]
 - [Inspired UI - Android][44] (searchable)
 - [Android Niceties][45] (not searchable, but high quality UIs only)
 - [Android App Patterns][46] (searchable)
@@ -143,3 +144,5 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [73]: https://www.coursera.org/course/posacommunication
 [74]: https://www.coursera.org/course/mobilecloudprogram
 [75]: https://www.coursera.org/course/mobilecloudsecurity
+
+[76]: http://www.materialup.com/
