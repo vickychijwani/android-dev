@@ -6,6 +6,7 @@ Published apps:
 
 - [SeriesGuide Show Manager][1]
 - [Google I/O app][2]
+- [Plaid (Material Design)][10]
 - [HN Android][5]
 - [DashClock][6]
 - [Telegram][8]
@@ -105,6 +106,7 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [7]: http://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 [8]: https://github.com/DrKLO/Telegram
 [9]: https://github.com/IanDarwin/Android-Cookbook-Examples
+[10]: https://github.com/nickbutcher/plaid
 
 [20]: http://android-developers.blogspot.com/
 [21]: http://www.androiddesignpatterns.com/
