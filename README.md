@@ -47,8 +47,9 @@ Blogs:
 
 - [Android Developers Blog][20]
 - [Android Design Patterns][21]
-- [Cyril Mottier's Blog][23]
+- [Cyril Mottier's Blog][33]
 - [Grokking Android][22]
+- [Mark Murphy aka CommonsWare's blog][29]
 - [Romain Guy's Blog][24]
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
@@ -127,6 +128,7 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [30]: https://www.google.com/events/io/io14videos
 [31]: https://developers.google.com/events/io/sessions#t-android
 [32]: http://www.vogella.com/tutorials/android.html
+[33]: https://commonsware.com/blog/
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://android-holo-colors.com/
