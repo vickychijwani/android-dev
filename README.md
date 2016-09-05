@@ -42,6 +42,7 @@ Talks:
 
 - [Android Developers YouTube Channel][29]
 - [Google I/O 2016][35]
+- [Android Dev Summit 2015][37]
 - [Google I/O 2015][34]
 - [Google I/O 2014][30]
 - [Google I/O 2013][31]
@@ -135,6 +136,7 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [34]: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkggzcouEOEcnjDIyJNyAN
 [35]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
 [36]: https://codelabs.developers.google.com/?cat=Android
+[37]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://android-holo-colors.com/
