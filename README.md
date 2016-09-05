@@ -24,9 +24,9 @@ Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
 
 There are extensive lists elsewhere, so I'll just direct you there:
 
-- [Android Arsenal][50]
-- [Android Custom Views][51]
-- [Jürgen Stumpp's list][52]
+- [Android Arsenal][60]
+- [Android Custom Views][61]
+- [Jürgen Stumpp's list][62]
 
 
 ### Tutorials and Blogs
@@ -54,47 +54,53 @@ Blogs:
 - [Prismatic's Android Guide][28]
 
 
-### MOOC's (Massive Open Online Course)
+### Online Courses
 
-Coursera
-
-- [Programming Mobile Applications for Android Handheld Systems Part 1][70]
-- [Programming Mobile Applications for Android Handheld Systems Part 2][71]
-- [Programming Mobile Services for Android Handheld Systems : Concurrency][72]
-- [Programming Mobile Services for Android Handheld Systems : Communication][73]
-- [Programming Cloud Services for Android Handheld Systems: Spring][74]
-- [Programming Cloud Services for Android Handheld Systems: Security][75]
+- [Udacity - Android development courses][70] (most developed by Google)
+- [Udacity - Android Developer Nanodegree (Paid)][71]
+- [Coursera Android development courses][72]
 
 
 ### Design
 
+- [Material Design Guidelines][55] (official Android design guidelines by Google)
+
 Tools:
 
-- [Android Cheatsheet for Graphic Designers][47]
+- [Material Design Icons][51] (includes official Google icons & community-created ones, all free)
+- [Material Palette][50] (Material Design color palette generator)
+- [Android Asset Studio][40] (utilities for generating various kinds of Android-specific assets)
+- [Android Feature Graphic Generator][52] (generates feature graphic for your Play Store listing - [example][53])
+- [Keyline Pushing][54] (helps you align your app layout to Material Design keylines)
 - [Flaticon - Database of Free Vector Icons][48]
-- [Roman Nurik's Android UI Utilities][40]
 - [Android Holo Colors Generator][41]
 - [Android ActionBar Style Generator][42]
 
 Inspiration:
 
-- [MaterialUp][76]
+- [MaterialUp][49]
 - [Inspired UI - Android][44] (searchable)
 - [Android Niceties][45] (not searchable, but high quality UIs only)
 - [Android App Patterns][46] (searchable)
 
+Reference:
+
+- [Android Cheatsheet for Graphic Designers][47]
+
 
 ### Tooling and Debugging
 
-If you're starting out with a new project, I highly recommend [Android Studio][60] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse. Other debugging tools:
+If you're starting out with a new project, I highly recommend [Android Studio][80] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse. Other debugging tools:
 
-- [Remote debugging WebViews via Chrome][61]
-- [Scalpel - view your UI hierarchy in 3D!][62]
+- [Remote debugging WebViews via Chrome][81]
+- [Scalpel - view your UI hierarchy in 3D!][82]
 
 
 -----
 
 If you think I've missed some useful resource, please file an [issue](https://github.com/vickychijwani/android-dev/issues), or fork and send a [pull request](https://github.com/vickychijwani/android-dev/pulls)!
+
+Check out [my blog](http://vickychijwani.me/) for more Android development tips and tutorials.
 
 
 [1]: https://github.com/UweTrottmann/SeriesGuide
@@ -122,7 +128,7 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [31]: https://developers.google.com/events/io/sessions#t-android
 [32]: http://www.vogella.com/tutorials/android.html
 
-[40]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
+[40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://android-holo-colors.com/
 [42]: http://jgilfelt.github.io/android-actionbarstylegenerator/
 [43]: https://developer.android.com/design/material/index.html
@@ -131,20 +137,22 @@ If you think I've missed some useful resource, please file an [issue](https://gi
 [46]: http://www.android-app-patterns.com/
 [47]: http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
 [48]: http://www.flaticon.com/
+[49]: http://www.materialup.com/
+[50]: http://materialpalette.com/
+[51]: http://materialdesignicons.com/
+[52]: http://www.norio.be/android-feature-graphic-generator/
+[53]: https://github.com/vickychijwani/quill
+[54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
+[55]: https://material.google.com/
 
-[50]: http://android-arsenal.com/
-[51]: http://androidcustomviews.com/
-[52]: https://github.com/JStumpp/awesome-android
+[60]: http://android-arsenal.com/
+[61]: http://androidcustomviews.com/
+[62]: https://github.com/JStumpp/awesome-android
 
-[60]: http://developer.android.com/sdk/index.html
-[61]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
-[62]: https://github.com/JakeWharton/scalpel
+[80]: https://developer.android.com/studio/index.html
+[81]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
+[82]: https://github.com/JakeWharton/scalpel
 
-[70]: https://www.coursera.org/course/androidpart1
-[71]: https://www.coursera.org/course/androidpart2
-[72]: https://www.coursera.org/course/posaconcurrency
-[73]: https://www.coursera.org/course/posacommunication
-[74]: https://www.coursera.org/course/mobilecloudprogram
-[75]: https://www.coursera.org/course/mobilecloudsecurity
-
-[76]: http://www.materialup.com/
+[70]: https://www.udacity.com/courses/android
+[71]: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
+[72]: https://www.coursera.org/courses?_facet_changed_=true&domains=computer-science&query=android
