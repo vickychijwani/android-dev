@@ -102,12 +102,15 @@ Reference:
 - [Official metrics for popular Android devices][56] (screen metrics & recommended Material dimensions)
 
 
-### Tooling and Debugging
+### Developer tools and debugging
 
 If you're starting out with a new project, I highly recommend [Android Studio][80] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse. Other debugging tools:
 
 - [Remote debugging WebViews via Chrome][81]
-- [Scalpel - view your UI hierarchy in 3D!][82]
+- [Scalpel][82] (view your UI hierarchy in 3D!)
+- [Stetho][83] (debug bridge for Android apps)
+- [LeakCanary][84] (automatically detect Activity memory leaks in your app!)
+- [Debug Drawer][85] (access debugging information right from your app)
 
 
 -----
@@ -177,6 +180,9 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [80]: https://developer.android.com/studio/index.html
 [81]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
 [82]: https://github.com/JakeWharton/scalpel
+[83]: http://facebook.github.io/stetho/
+[84]: https://github.com/square/leakcanary
+[85]: https://github.com/palaima/DebugDrawer
 
 [90]: http://androidweekly.net/
 [91]: https://www.androiddevdigest.com/
