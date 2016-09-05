@@ -40,6 +40,8 @@ Tutorials:
 Talks:
 
 - [Android Developers YouTube Channel][29]
+- [Google I/O 2016][35]
+- [Google I/O 2015][34]
 - [Google I/O 2014][30]
 - [Google I/O 2013][31]
 
@@ -125,10 +127,12 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [27]: http://developer.android.com/guide/index.html
 [28]: https://github.com/nstevens/androidguide/wiki
 [29]: https://www.youtube.com/user/androiddevelopers
-[30]: https://www.google.com/events/io/io14videos
-[31]: https://developers.google.com/events/io/sessions#t-android
+[30]: https://www.youtube.com/playlist?list=PLCHiSeaFvm6RE9ypBzJtHnb87qh6sjUlk
+[31]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9WGUwq2gQ-coU3fSyexgOx
 [32]: http://www.vogella.com/tutorials/android.html
 [33]: https://commonsware.com/blog/
+[34]: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJkggzcouEOEcnjDIyJNyAN
+[35]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8jQTUYvIfqA9lMvSGQWtte
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://android-holo-colors.com/
