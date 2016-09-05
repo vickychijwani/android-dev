@@ -99,6 +99,7 @@ Inspiration:
 Reference:
 
 - [Android Cheatsheet for Graphic Designers][47]
+- [Official metrics for popular Android devices][56] (screen metrics & recommended Material dimensions)
 
 
 ### Tooling and Debugging
@@ -163,6 +164,7 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [53]: https://github.com/vickychijwani/quill
 [54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
 [55]: https://material.google.com/
+[56]: https://design.google.com/devices/
 
 [60]: http://android-arsenal.com/
 [61]: http://androidcustomviews.com/
