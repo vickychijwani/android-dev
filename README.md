@@ -67,6 +67,13 @@ Blogs:
 - [Coursera Android development courses][72]
 
 
+### Newsletters
+
+Stay up-to-date with the latest techniques, news, and job openings.
+
+- [Android Weekly][90]
+- [Android Dev Digest][91]
+
 ### Design
 
 - [Material Design Guidelines][55] (official Android design guidelines by Google)
@@ -161,10 +168,13 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [61]: http://androidcustomviews.com/
 [62]: https://github.com/JStumpp/awesome-android
 
+[70]: https://www.udacity.com/courses/android
+[71]: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
+[72]: https://www.coursera.org/courses?_facet_changed_=true&domains=computer-science&query=android
+
 [80]: https://developer.android.com/studio/index.html
 [81]: https://developer.chrome.com/devtools/docs/remote-debugging#debugging-webviews
 [82]: https://github.com/JakeWharton/scalpel
 
-[70]: https://www.udacity.com/courses/android
-[71]: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
-[72]: https://www.coursera.org/courses?_facet_changed_=true&domains=computer-science&query=android
+[90]: http://androidweekly.net/
+[91]: https://www.androiddevdigest.com/
