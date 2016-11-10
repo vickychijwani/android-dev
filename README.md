@@ -166,8 +166,8 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [52]: http://www.norio.be/android-feature-graphic-generator/
 [53]: https://github.com/vickychijwani/quill
 [54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
-[55]: https://material.google.com/
-[56]: https://design.google.com/devices/
+[55]: https://material.io/spec/
+[56]: https://material.io/devices/
 [57]: https://unsplash.com/collections
 [58]: https://thenounproject.com
 
