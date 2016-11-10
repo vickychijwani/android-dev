@@ -1,23 +1,32 @@
 Developing great Android apps is hard, as anyone who has ever tried to make one can attest. So it helps to turn up fully-equipped for battle. To that end, here's a curated list of indispensable resources.
 
-### Open-source apps
 
-Published apps:
+### Design
 
-- [SeriesGuide Show Manager][1]
-- [Google I/O app][2]
-- [Plaid (Material Design)][10]
-- [HN Android][5]
-- [DashClock][6]
-- [Telegram][8]
+- [Material Design Guidelines][55] (official Android design guidelines by Google)
 
-Samples:
+Tools:
 
-- [ApiDemos][4]
-- [u2020][3]
-- [Android Cookbook Examples][9]
+- [Material Design Icons][51] (includes official Google icons & community-created ones, all free)
+- [Material Palette][50] (Material Design color palette generator)
+- [Unsplash][57] (beautiful free high-res photos)
+- [The Noun Project][58] (well-designed, free-to-use pictographms/icons; good for launcher icons - this is where I got [Quill][53]'s feather icon)
+- [Flaticon - Database of Free Vector Icons][48]
+- [Android Asset Studio][40] (utilities for generating various kinds of Android-specific assets)
+- [Android Feature Graphic Generator][52] (generates feature graphic for your Play Store listing - [example][53])
+- [Keyline Pushing][54] (helps you align your app layout to Material Design keylines)
 
-Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
+Inspiration:
+
+- [MaterialUp][49]
+- [Inspired UI - Android][44] (searchable)
+- [Android Niceties][45] (not searchable, but high quality UIs only)
+- [Android App Patterns][46] (searchable)
+
+Reference:
+
+- [Android Cheatsheet for Graphic Designers][47]
+- [Official metrics for popular Android devices][56] (screen metrics & recommended Material dimensions)
 
 
 ### Libraries
@@ -67,6 +76,26 @@ Blogs:
 - [Coursera Android development courses][72]
 
 
+### Open-source apps
+
+Published apps:
+
+- [SeriesGuide Show Manager][1]
+- [Google I/O app][2]
+- [Plaid (Material Design)][10]
+- [HN Android][5]
+- [DashClock][6]
+- [Telegram][8]
+
+Samples:
+
+- [ApiDemos][4]
+- [u2020][3]
+- [Android Cookbook Examples][9]
+
+Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
+
+
 ### Newsletters
 
 Stay up-to-date with the latest techniques, news, and job openings.
@@ -74,37 +103,8 @@ Stay up-to-date with the latest techniques, news, and job openings.
 - [Android Weekly][90]
 - [Android Dev Digest][91]
 
-### Design
-
-- [Material Design Guidelines][55] (official Android design guidelines by Google)
-
-Tools:
-
-- [Material Design Icons][51] (includes official Google icons & community-created ones, all free)
-- [Material Palette][50] (Material Design color palette generator)
-- [Android Asset Studio][40] (utilities for generating various kinds of Android-specific assets)
-- [Android Feature Graphic Generator][52] (generates feature graphic for your Play Store listing - [example][53])
-- [Keyline Pushing][54] (helps you align your app layout to Material Design keylines)
-- [Flaticon - Database of Free Vector Icons][48]
-- [Android Holo Colors Generator][41]
-- [Android ActionBar Style Generator][42]
-
-Inspiration:
-
-- [MaterialUp][49]
-- [Inspired UI - Android][44] (searchable)
-- [Android Niceties][45] (not searchable, but high quality UIs only)
-- [Android App Patterns][46] (searchable)
-
-Reference:
-
-- [Android Cheatsheet for Graphic Designers][47]
-- [Official metrics for popular Android devices][56] (screen metrics & recommended Material dimensions)
-
 
 ### Developer tools and debugging
-
-If you're starting out with a new project, I highly recommend [Android Studio][80] over Eclipse. Studio is the future of Android development, and although it can take some time to get used to, it fixes a ton of tiny annoyances compared to Eclipse. Other debugging tools:
 
 - [Remote debugging WebViews via Chrome][81]
 - [Scalpel][82] (view your UI hierarchy in 3D!)
@@ -152,8 +152,8 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [38]: https://realm.io/news/tags/android/
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
-[41]: http://android-holo-colors.com/
-[42]: http://jgilfelt.github.io/android-actionbarstylegenerator/
+[41]: unused
+[42]: unused
 [43]: https://developer.android.com/design/material/index.html
 [44]: http://android.inspired-ui.com/
 [45]: http://androidniceties.tumblr.com/
@@ -168,6 +168,8 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
 [55]: https://material.google.com/
 [56]: https://design.google.com/devices/
+[57]: https://unsplash.com/collections
+[58]: https://thenounproject.com
 
 [60]: http://android-arsenal.com/
 [61]: http://androidcustomviews.com/
