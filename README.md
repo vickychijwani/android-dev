@@ -1,5 +1,7 @@
 Developing great Android apps is hard, as anyone who has ever tried to make one can attest. So it helps to turn up fully-equipped for battle. To that end, here's a curated list of indispensable resources.
 
+**I only put in the best of the best links here, things that I personally use all the time, so this is not your average "awesome" list. It's awesome-*r*. 😎**
+
 
 ### Design
 
@@ -19,9 +21,8 @@ Tools:
 Inspiration:
 
 - [MaterialUp][49]
-- [Inspired UI - Android][44] (searchable)
 - [Android Niceties][45] (not searchable, but high quality UIs only)
-- [Android App Patterns][46] (searchable)
+- [Mobile Patterns][41] (categorized, searchable)
 
 Reference:
 
@@ -49,13 +50,13 @@ Tutorials:
 
 Talks:
 
-- [Android Developers YouTube Channel][29]
+- [Realm's Android talks][38] (good talks with full transcripts! Not just Realm-specific)
 - [Google I/O 2016][35]
 - [Android Dev Summit 2015][37]
 - [Google I/O 2015][34]
 - [Google I/O 2014][30]
 - [Google I/O 2013][31]
-- [Realm's Android talks][38] (good talks, not just Realm-specific, with full transcripts!)
+- [Android Developers YouTube Channel][29]
 
 Blogs:
 
@@ -83,15 +84,15 @@ Published apps:
 - [SeriesGuide Show Manager][1]
 - [Google I/O app][2]
 - [Plaid (Material Design)][10]
+- [Quill][11]
+- [Telegram][8]
 - [HN Android][5]
 - [DashClock][6]
-- [Telegram][8]
 
 Samples:
 
-- [ApiDemos][4]
+- [ApiDemos][4] (Official samples from Google)
 - [u2020][3]
-- [Android Cookbook Examples][9]
 
 Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
 
@@ -106,11 +107,11 @@ Stay up-to-date with the latest techniques, news, and job openings.
 
 ### Developer tools and debugging
 
-- [Remote debugging WebViews via Chrome][81]
-- [Scalpel][82] (view your UI hierarchy in 3D!)
-- [Stetho][83] (debug bridge for Android apps)
+- [Stetho][83] (debug bridge for Android apps - debug network requests, view hierarchy, and more using Chrome DevTools!)
 - [LeakCanary][84] (automatically detect Activity memory leaks in your app!)
 - [Debug Drawer][85] (access debugging information right from your app)
+- [Remote debugging WebViews via Chrome][81]
+- [Scalpel][82] (view your UI hierarchy in 3D! Useful for those pesky z-index issues)
 
 
 -----
@@ -128,8 +129,9 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [6]: https://code.google.com/p/dashclock/
 [7]: http://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 [8]: https://github.com/DrKLO/Telegram
-[9]: https://github.com/IanDarwin/Android-Cookbook-Examples
+[9]: unused
 [10]: https://github.com/nickbutcher/plaid
+[11]: https://github.com/vickychijwani/quill/
 
 [20]: http://android-developers.blogspot.com/
 [21]: http://www.androiddesignpatterns.com/
@@ -152,15 +154,15 @@ Check out [my blog](http://vickychijwani.me/) for more Android development tips 
 [38]: https://realm.io/news/tags/android/
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
-[41]: unused
+[41]: http://www.mobile-patterns.com
 [42]: unused
 [43]: https://developer.android.com/design/material/index.html
 [44]: http://android.inspired-ui.com/
 [45]: http://androidniceties.tumblr.com/
-[46]: http://www.android-app-patterns.com/
+[46]: unused
 [47]: http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
 [48]: http://www.flaticon.com/
-[49]: http://www.materialup.com/
+[49]: https://material.uplabs.com/
 [50]: http://materialpalette.com/
 [51]: http://materialdesignicons.com/
 [52]: http://www.norio.be/android-feature-graphic-generator/
