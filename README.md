@@ -118,7 +118,7 @@ Stay up-to-date with the latest techniques, news, and job openings.
 
 If you think I've missed some useful resource, please file an [issue](https://github.com/vickychijwani/android-dev/issues), or fork and send a [pull request](https://github.com/vickychijwani/android-dev/pulls)!
 
-Check out [my blog](http://vickychijwani.me/) for more Android development tips and tutorials.
+Curated by: [@vickychijwani](https://github.com/vickychijwani)
 
 
 [1]: https://github.com/UweTrottmann/SeriesGuide
