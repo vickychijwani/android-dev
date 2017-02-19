@@ -5,29 +5,29 @@ Developing great Android apps is hard, as anyone who has ever tried to make one 
 
 ### Design
 
-- [Material Design Guidelines][55] (official Android design guidelines by Google)
+- [Material Design Guidelines][55] - Official Android design guidelines by Google
 
 Tools:
 
-- [Material Design Icons][51] (includes official Google icons & community-created ones, all free)
-- [Material Palette][50] (Material Design color palette generator)
-- [Unsplash][57] (beautiful free high-res photos)
-- [The Noun Project][58] (well-designed, free-to-use pictographms/icons; good for launcher icons - this is where I got [Quill][53]'s feather icon)
-- [Flaticon - Database of Free Vector Icons][48]
-- [Android Asset Studio][40] (utilities for generating various kinds of Android-specific assets)
-- [Android Feature Graphic Generator][52] (generates feature graphic for your Play Store listing - [example][53])
-- [Keyline Pushing][54] (helps you align your app layout to Material Design keylines)
+- [Material Design Icons][51] - Includes official Google icons & community-created ones, all free
+- [Material Palette][50] - Material Design color palette generator
+- [Unsplash][57] - Beautiful free high-res photos
+- [The Noun Project][58] - Well-designed, free-to-use pictographms/icons; good for launcher icons
+- [Flaticon][48] - Database of free vector icons
+- [Android Asset Studio][40] - Utilities for generating various kinds of Android-specific assets
+- [Android Feature Graphic Generator][52] - Generates feature graphic for your Play Store listing
+- [Keyline Pushing][54] - Helps you align your app layout to Material Design keylines
 
 Inspiration:
 
-- [MaterialUp][49]
-- [Android Niceties][45] (not searchable, but high quality UIs only)
-- [Mobile Patterns][41] (categorized, searchable)
+- [MaterialUp][49] - Community-powered Material Design inspiration
+- [Android Niceties][45] - Not searchable, but high quality UIs only
+- [Mobile Patterns][41] - Categorized, searchable
 
 Reference:
 
 - [Android Cheatsheet for Graphic Designers][47]
-- [Official metrics for popular Android devices][56] (screen metrics & recommended Material dimensions)
+- [Official metrics for popular Android devices][56] - Screen metrics & recommended Material dimensions
 
 
 ### Libraries
@@ -45,12 +45,12 @@ Tutorials:
 
 - [Official Android Training Guides][26]
 - [Official Android API Guides][27]
-- [Official Android Codelabs][36] (really good step-by-step, hands-on coding tutorials by Google)
+- [Official Android Codelabs][36] - Really good step-by-step, hands-on coding tutorials by Google
 - [Vogella.com Tutorials][32]
 
 Talks:
 
-- [Realm's Android talks][38] (good talks with full transcripts! Not just Realm-specific)
+- [Realm's Android talks][38] - Good talks with full transcripts! Not just Realm-specific
 - [Google I/O 2016][35]
 - [Android Dev Summit 2015][37]
 - [Google I/O 2015][34]
@@ -91,7 +91,7 @@ Published apps:
 
 Samples:
 
-- [ApiDemos][4] (Official samples from Google)
+- [ApiDemos][4] - Official samples from Google
 - [u2020][3]
 
 Many more F/OSS apps in [this Wikipedia article][7], grouped by app category.
@@ -107,11 +107,11 @@ Stay up-to-date with the latest techniques, news, and job openings.
 
 ### Developer tools and debugging
 
-- [Stetho][83] (debug bridge for Android apps - debug network requests, view hierarchy, and more using Chrome DevTools!)
-- [LeakCanary][84] (automatically detect Activity memory leaks in your app!)
-- [Debug Drawer][85] (access debugging information right from your app)
+- [Stetho][83] - Debug bridge for Android apps - debug network requests, view hierarchy, and more using Chrome DevTools!
+- [LeakCanary][84] - Automatically detect Activity memory leaks in your app!
+- [Debug Drawer][85] - Access debugging information right from your app
 - [Remote debugging WebViews via Chrome][81]
-- [Scalpel][82] (view your UI hierarchy in 3D! Useful for those pesky z-index issues)
+- [Scalpel][82] - View your UI hierarchy in 3D! Useful for those pesky z-index issues
 
 
 -----
@@ -166,7 +166,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [50]: http://materialpalette.com/
 [51]: http://materialdesignicons.com/
 [52]: http://www.norio.be/android-feature-graphic-generator/
-[53]: https://github.com/vickychijwani/quill
+[53]: unused
 [54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
 [55]: https://material.io/spec/
 [56]: https://material.io/devices/
