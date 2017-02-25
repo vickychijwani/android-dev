@@ -75,6 +75,7 @@ Blogs:
 
 Specific topics:
 
+- [Retrofit tutorial series - Future Studio][120] - beginner to advanced level tutorials on all aspects of Retrofit
 - [An Introduction to Icon Animation Techniques - Android Design Patterns][39]
 
 
@@ -161,6 +162,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [37]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8
 [38]: https://realm.io/news/tags/android/
 [39]: http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
+[120]: https://futurestud.io/tutorials/retrofit-getting-started-and-android-client
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://www.mobile-patterns.com
