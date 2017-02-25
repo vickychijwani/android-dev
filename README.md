@@ -73,6 +73,10 @@ Blogs:
 - [Chet Hasse's Blog][25]
 - [Prismatic's Android Guide][28]
 
+Specific topics:
+
+- [An Introduction to Icon Animation Techniques - Android Design Patterns][39]
+
 
 ### Online Courses
 
@@ -156,6 +160,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [36]: https://codelabs.developers.google.com/?cat=Android
 [37]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8
 [38]: https://realm.io/news/tags/android/
+[39]: http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://www.mobile-patterns.com
