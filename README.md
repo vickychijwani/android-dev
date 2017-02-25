@@ -20,6 +20,7 @@ Tools:
 - [Android Asset Studio][40] - Utilities for generating various kinds of Android-specific assets
 - [Android Icon Animator][42] - Icon animation tool
 - [Android Feature Graphic Generator][52] - Generates feature graphic for your Play Store listing
+- [SVG to VectorDrawable Converter][46] - if this doesn't work well, try [this other one][53]
 - [Keyline Pushing][54] - Helps you align your app layout to Material Design keylines
 
 Inspiration:
@@ -170,14 +171,14 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [43]: https://developer.android.com/design/material/index.html
 [44]: http://android.inspired-ui.com/
 [45]: http://androidniceties.tumblr.com/
-[46]: unused
+[46]: http://a-student.github.io/SvgToVectorDrawableConverter.Web/
 [47]: http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
 [48]: http://www.flaticon.com/
 [49]: https://material.uplabs.com/
 [50]: http://materialpalette.com/
 [51]: http://materialdesignicons.com/
 [52]: http://www.norio.be/android-feature-graphic-generator/
-[53]: unused
+[53]: http://inloop.github.io/svg2android/
 [54]: https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en
 [55]: https://material.io/spec/
 [56]: https://material.io/devices/
