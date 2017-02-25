@@ -7,14 +7,18 @@ Developing great Android apps is hard, as anyone who has ever tried to make one 
 
 - [Material Design Guidelines][55] - Official Android design guidelines by Google
 
-Tools:
+Icon galleries:
 
 - [Material Design Icons][51] - Includes official Google icons & community-created ones, all free
-- [Material Palette][50] - Material Design color palette generator
-- [Unsplash][57] - Beautiful free high-res photos
 - [The Noun Project][58] - Well-designed, free-to-use pictographms/icons; good for launcher icons
 - [Flaticon][48] - Database of free vector icons
+
+Tools:
+
+- [Material Palette][50] - Material Design color palette generator
+- [Unsplash][57] - Beautiful free high-res photos
 - [Android Asset Studio][40] - Utilities for generating various kinds of Android-specific assets
+- [Android Icon Animator][42] - Icon animation tool
 - [Android Feature Graphic Generator][52] - Generates feature graphic for your Play Store listing
 - [Keyline Pushing][54] - Helps you align your app layout to Material Design keylines
 
@@ -155,7 +159,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 
 [40]: https://romannurik.github.io/AndroidAssetStudio/
 [41]: http://www.mobile-patterns.com
-[42]: unused
+[42]: https://romannurik.github.io/AndroidIconAnimator/
 [43]: https://developer.android.com/design/material/index.html
 [44]: http://android.inspired-ui.com/
 [45]: http://androidniceties.tumblr.com/
