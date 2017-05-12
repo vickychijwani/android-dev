@@ -10,7 +10,7 @@ Developing great Android apps is hard, as anyone who has ever tried to make one 
 Icon galleries:
 
 - [Material Design Icons][51] - Includes official Google icons & community-created ones, all free
-- [The Noun Project][58] - Well-designed, free-to-use pictographms/icons; good for launcher icons
+- [The Noun Project][58] - Well-designed, free-to-use pictograms/icons; good for launcher icons
 - [Flaticon][48] - Database of free vector icons
 
 Tools:
