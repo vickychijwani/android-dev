@@ -93,6 +93,7 @@ Published apps:
 
 - [SeriesGuide Show Manager][1]
 - [Google I/O app][2]
+- [Phonograph Music Player][9]
 - [Plaid (Material Design)][10]
 - [Quill][11]
 - [Telegram][8]
@@ -139,7 +140,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [6]: https://code.google.com/p/dashclock/
 [7]: http://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 [8]: https://github.com/DrKLO/Telegram
-[9]: unused
+[9]: https://github.com/kabouzeid/Phonograph
 [10]: https://github.com/nickbutcher/plaid
 [11]: https://github.com/vickychijwani/quill/
 
