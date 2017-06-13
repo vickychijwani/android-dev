@@ -18,7 +18,8 @@ Tools:
 - [Material Palette][50] - Material Design color palette generator
 - [Unsplash][57] - Beautiful free high-res photos
 - [Android Asset Studio][40] - Utilities for generating various kinds of Android-specific assets
-- [Android Icon Animator][42] - Icon animation tool
+- [Shape Shifter][59] - Tool to create AnimatedVectorDrawables (e.g., icon morphing animations)
+- [Android Icon Animator][42] - another icon animation tool
 - [Android Feature Graphic Generator][52] - Generates feature graphic for your Play Store listing
 - [SVG to VectorDrawable Converter][46] - if this doesn't work well, try [this other one][53]
 - [Keyline Pushing][54] - Helps you align your app layout to Material Design keylines
@@ -185,6 +186,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [56]: https://material.io/devices/
 [57]: https://unsplash.com/collections
 [58]: https://thenounproject.com
+[59]: https://shapeshifter.design/
 
 [60]: http://android-arsenal.com/
 [61]: http://androidcustomviews.com/
