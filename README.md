@@ -96,6 +96,7 @@ Published apps:
 - [Google I/O app][2]
 - [Phonograph Music Player][9]
 - [Plaid (Material Design)][10]
+- [FastHub (GitHub client)][12]
 - [Quill][11]
 - [Telegram][8]
 - [HN Android][5]
@@ -144,6 +145,7 @@ Curated by: [@vickychijwani](https://github.com/vickychijwani)
 [9]: https://github.com/kabouzeid/Phonograph
 [10]: https://github.com/nickbutcher/plaid
 [11]: https://github.com/vickychijwani/quill/
+[12]: https://github.com/k0shk0sh/FastHub/
 
 [20]: http://android-developers.blogspot.com/
 [21]: http://www.androiddesignpatterns.com/
